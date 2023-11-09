@@ -1,5 +1,5 @@
 {   "audio" : "audios/audio.mp3",
-    "modelo":"modelos/Mansion6.glb",
+    "modelo":"modelos/Version agrupada.glb",
     "fondo":"rgb(0,0,20)",
     "data" :
         [
@@ -8,8 +8,19 @@
                 "duracion":2000,
                 "camara":"",
                 "target":""
+            },
+            {
+                "tiempo":"00:05",
+                "duracion":2000,
+                "camara":"",
+                "target":""
+            },
+            {
+                "tiempo":"00:10",
+                "duracion":2000,
+                "camara":"",
+                "target":""
             }
-            
            
         ]
 }

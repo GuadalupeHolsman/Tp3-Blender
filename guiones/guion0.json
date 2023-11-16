@@ -1,26 +1,335 @@
-{   "audio" : "audios/audio.mp3",
-    "modelo":"modelos/Version agrupada.glb",
-    "fondo":"rgb(0,0,20)",
-    "data" :
-        [
-            {
-                "tiempo":"00:00",
-                "duracion":2000,
-                "camara":"",
-                "target":""
-            },
-            {
-                "tiempo":"00:05",
-                "duracion":2000,
-                "camara":"",
-                "target":""
-            },
-            {
-                "tiempo":"00:10",
-                "duracion":2000,
-                "camara":"",
-                "target":""
-            }
-           
-        ]
+{
+    "audio": "audios/audioCasaUsher4.mp3",
+    "modelo": "modelos/camaras00.glb",
+    "fondo": "rgb(0,20,50)",
+    "data": [
+        {
+            "tiempo": "00:00",
+            "camara": "C_01",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:01",
+            "camara": "C_02",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:02",
+            "camara": "C_03",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:03",
+            "camara": "C_03b",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:04",
+            "camara": "C_04",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:05",
+            "camara": "C_05",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:06",
+            "camara": "C_06",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:07",
+            "camara": "C_07",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:08",
+            "camara": "C_07b",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:09",
+            "camara": "C_07c",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:10",
+            "camara": "C_07c",
+            "target": "Cielo",
+            "nombre": "Nubes"
+        },
+        {
+            "tiempo": "00:13",
+            "camara": "C_07c",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:14",
+            "camara": "C_08",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:15",
+            "camara": "C_08b",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:16",
+            "camara": "C_09",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:17",
+            "camara": "C_09b",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:18",
+            "camara": "C_10",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:19",
+            "camara": "C_10b",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:20",
+            "camara": "C_11",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:21",
+            "camara": "C_12",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:22",
+            "camara": "C_12a",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:23",
+            "camara": "C_12b",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:24",
+            "camara": "C_12c",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:25",
+            "camara": "C_12d",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:26",
+            "camara": "C_12e",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:27",
+            "camara": "C_12f",
+            "target": "Colina"
+        },
+        {
+            "tiempo": "00:28",
+            "camara": "C_13",
+            "target": "Casa4",
+            "nombre": "Casa"
+        },
+        {
+            "tiempo": "00:29",
+            "camara": "C_14",
+            "target": "Casa2"
+        },
+        {
+            "tiempo": "00:30",
+            "camara": "C_14b",
+            "target": "Casa4"
+        },
+        {
+            "tiempo": "00:31",
+            "camara": "C_14c",
+            "target": "Casa4"
+        },
+        {
+            "tiempo": "00:32",
+            "camara": "C_15",
+            "target": "Casa4"
+        },
+        {
+            "tiempo": "00:33",
+            "camara": "C_16",
+            "target": "Casa4"
+        },
+        {
+            "tiempo": "00:34",
+            "camara": "C_17",
+            "target": "Casa4"
+        },
+        {
+            "tiempo": "00:55",
+            "camara": "C_17",
+            "target": "Casa2",
+            "nombre": "Panorámica centro"
+        },
+        {
+            "tiempo": "00:58",
+            "camara": "C_17",
+            "target": "Casa3",
+            "nombre": "Panorámica derecha"
+        },
+        {
+            "tiempo": "01:01",
+            "camara": "C_17",
+            "target": "Colina",
+            "nombre": "Panorámica izquierda"
+        },
+        {
+            "tiempo": "01:04",
+            "camara": "C_17",
+            "target": "Casa2"
+        },
+        {
+            "tiempo": "01:06",
+            "camara": "C_17",
+            "target": "Ventana",
+            "nombre": "Ventana"
+        },
+        {
+            "tiempo": "01:10",
+            "camara": "C_17",
+            "target": "Tronco",
+            "nombre": "Juncos y tronco"
+        },
+        {
+            "tiempo": "01:37",
+            "camara": "C_17",
+            "target": "Casa4"
+        },
+        {
+            "tiempo": "01:56",
+            "camara": "C_18",
+            "target": "Lago",
+            "nombre": "Lago"
+        },
+        {
+            "tiempo": "01:58",
+            "camara": "C_19",
+            "target": "Lago"
+        },
+        {
+            "tiempo": "02:00",
+            "camara": "C_20",
+            "target": "Lago"
+        },
+        {
+            "tiempo": "02:02",
+            "camara": "C_20",
+            "target": "Lago"
+        },
+        {
+            "tiempo": "02:04",
+            "camara": "C_21",
+            "target": "Lago"
+        },
+        {
+            "tiempo": "02:06",
+            "camara": "C_21",
+            "target": "Reflejo"
+        },
+        {
+            "tiempo": "02:08",
+            "camara": "C_22",
+            "target": "Reflejo"
+        },
+        {
+            "tiempo": "02:28",
+            "camara": "C_22",
+            "target": "Casa2"
+        },
+        {
+            "tiempo": "02:29",
+            "camara": "C_22b",
+            "target": "Casa2"
+        },
+        {
+            "tiempo": "02:30",
+            "camara": "C_23",
+            "target": "Casa2"
+        },
+        {
+            "tiempo": "02:32",
+            "camara": "C_23",
+            "target": "CasaTecho"
+        },
+        {
+            "tiempo": "02:34",
+            "camara": "C_24",
+            "target": "CasaTecho"
+        },
+        {
+            "tiempo": "02:36",
+            "camara": "C_25",
+            "target": "CasaTecho"
+        },
+        {
+            "tiempo": "02:38",
+            "camara": "C_26",
+            "target": "CasaTecho"
+        },
+        {
+            "tiempo": "02:42",
+            "camara": "C_26",
+            "target": "Casa3"
+        },
+        {
+            "tiempo": "02:44",
+            "camara": "C_26",
+            "target": "CasaTecho"
+        },
+        {
+            "tiempo": "02:46",
+            "camara": "C_26",
+            "target": "CasaTecho2"
+        },
+        {
+            "tiempo": "02:48",
+            "camara": "C_26",
+            "target": "CasaTecho"
+        },
+        {
+            "tiempo": "03:36",
+            "camara": "C_26",
+            "target": "Grieta"
+        },
+        {
+            "tiempo": "03:39",
+            "camara": "C_26",
+            "target": "Grieta2"
+        },
+        {
+            "tiempo": "03:44",
+            "camara": "C_26",
+            "target": "Grieta3"
+        },
+        {
+            "tiempo": "03:48",
+            "camara": "C_27",
+            "target": "Grieta4"
+        },
+        {
+            "tiempo": "03:50",
+            "camara": "C_28",
+            "target": "Grieta5"
+        },
+        {
+            "tiempo": "03:52",
+            "camara": "C_28",
+            "target": "Grieta6"
+        }
+    ]
 }
